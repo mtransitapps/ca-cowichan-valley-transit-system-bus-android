@@ -1,4 +1,4 @@
-Title: Cowichan Valley Regional Transit System Bus - MonTransit
+Title: Cowichan Valley Transit System Bus - MonTransit
 ----------
 Short description:
 Cowichan Valley Regional TS buses for MonTransit.
