@@ -5,7 +5,7 @@ Cowichan Valley Regional TS buses for MonTransit.
 Schedule. Alerts. News.
 ----------
 What's new in this version?:
-Schedule from December 4, 2018 to June 30, 2019.
+Schedule from May 13, 2019 to December 31, 2019.
 Tweets from @BCTransit.
 ----------
 Full description:
