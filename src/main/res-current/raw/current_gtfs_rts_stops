@@ -22,7 +22,7 @@
 100554,'100554','Douglas @ Saanich',48.453272,-123.375516
 100709,'100709','Trans-Canada @ Tillicum',48.458021,-123.389492
 100710,'100710','Trans-Canada @ Tillicum',48.457891,-123.389889
-100817,'100817','Trans-Canada @ McKenzie',48.459511,-123.403201
+100817,'100817','Trans-Canada @ McKenzie',48.459931,-123.403221
 100825,'100825','Trans-Canada @ McKenzie',48.459353,-123.403772
 101055,'101055','Helmcken Rd Offramp',48.463406,-123.431634
 101063,'101063','Helmcken Rd Offramp',48.464508,-123.430984
@@ -194,7 +194,7 @@
 106233,'106233','Bench Rd @ Staghorn',48.742433,-123.660272
 106234,'106234','Bench Rd @ Staghorn',48.742578,-123.660449
 106235,'106235','Cowichan Lk Rd @ Culverton',48.777625,-123.838523
-106237,'106237','Fisher Rd @ Wiebe Pl',48.696989,-123.592302
+106237,'106237','Fisher Rd @ Wiebe Pl',48.697404,-123.592134
 106238,'106238','Braithwaite @ Rolmar Cres',48.69472,-123.583596
 106239,'106239','Braithwaite Dr @ 1170 Block',48.694846,-123.580724
 106242,'106242','Farnsworth @ Stuart Cres',48.69443,-123.577436
@@ -265,7 +265,7 @@
 108047,'108047','Maple Bay Rd @ Churchill Rd',48.795952,-123.652869
 108048,'108048','Telegraph @ LaFortune',48.678948,-123.55079
 108049,'108049','Maple Bay Rd @ Osprey Dr',48.810615,-123.624812
-108050,'108050','Maple Bay Rd @ Genoa Bay Rd',48.813693,-123.622666
+108050,'108050','Maple Bay Rd @ Genoa Bay Rd',48.813776,-123.6227
 108051,'108051','Hutchinson @ Telegraph',48.686415,-123.553633
 108052,'108052','Deloume @ Lodge Pole Rd',48.650876,-123.562084
 108053,'108053','Shawnigan Lk Rd @ Thain',48.669757,-123.624784
@@ -288,7 +288,7 @@
 108070,'108070','Wilson @ Gibbins',48.784598,-123.723645
 108087,'108087','Chemainus Rd @ Crozier',48.907084,-123.705694
 108088,'108088','20 Block South Shr Rd',48.826056,-124.055002
-108089,'108089','Valleyview Mall @ Cowichan Bay Rd',48.709862,-123.608615
+108089,'108089','Valleyview Mall @ Cowichan Bay Rd',48.709836,-123.608292
 108090,'108090','Deloume Rd @ Barry',48.652287,-123.560621
 108109,'108109','Shawnigan Lk Mill Bay @ Deloume',48.646926,-123.593758
 108112,'108112','Shawnignan Mill Bay Rd @ Sylvester',48.649067,-123.600358
@@ -530,7 +530,7 @@
 136265,'136265','Shawnigan Lk-Mill Bay @ Forsyth',48.651702,-123.608337
 136267,'136267','Shawnigan Lk-Mill Bay @ Cameron-Tagga',48.64831,-123.58667
 136268,'136268','Shawnigan Lk-Mill Bay @ Barry',48.657536,-123.566599
-136269,'136269','Deloume @ Lodgepole',48.650892,-123.562377
+136269,'136269','Deloume @ Lodgepole',48.651347,-123.561754
 136270,'136270','Shawnigan Lk-Mill Bay @ Brulette',48.657616,-123.568181
 136272,'136272','Shawnigan Lk-Mill Bay @ Cameron-Tagga',48.648693,-123.586445
 136273,'136273','Shawnigan Lk-Mill Bay @ Briarwood',48.647494,-123.588751
@@ -545,7 +545,7 @@
 136284,'136284','Shawnigan Lk @ Cameron-Taggart',48.674806,-123.606365
 136286,'136286','Cobble Hl @ Thain',48.692604,-123.607579
 136287,'136287','Cobble Hl 3800 Block',48.699185,-123.606321
-136295,'136295','Mill Bay @ Handy',48.650977,-123.557604
+136295,'136295','Mill Bay @ Handy',48.650703,-123.557616
 136296,'136296','Mill Bay @ Bay',48.644034,-123.547733
 136297,'136297','Huckleberry @ Frayne',48.641819,-123.546681
 136300,'136300','Mill Bay @ Ferry',48.616547,-123.521608
