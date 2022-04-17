@@ -1,6 +1,6 @@
 This app adds Cowichan Valley Regional Transit System (BC Transit) buses information to MonTransit.
 
-This app provides the buses schedule and news from @BCTransit on Twitter.
+This app provides the buses schedule as well as the latest alerts and news from @BCTransit on Twitter.
 
 Cowichan Valley Regional Transit System buses serve Duncan, Cobble Hill, Mill Bay, Shawnigan Lake and Victoria in British Columbia, Canada.
 
@@ -19,4 +19,4 @@ https://github.com/mtransitapps/ca-cowichan-valley-transit-system-bus-android
 This app is not related with BC Transit and Cowichan Valley Regional Transit System.
 
 Permissions:
-- Other: required to read news from Twitter
+- Other: required to read alerts and news from Twitter
