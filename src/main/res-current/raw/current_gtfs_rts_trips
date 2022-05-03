@@ -1,28 +1,28 @@
-2019,0,'Cowichan Commons',2
-2029,0,'Vlg Grn Mall',2
-300,0,'Cowichan Commons',3
-301,0,'Vlg Grn Mall',3
-4029,0,'Duncan',4
-4019,0,'Maple Bay',4
-500,0,'Eagle Hts',5
-6019,0,'Chemainus',6
-6029,0,'Duncan',6
-7029,0,'S Shr & King George',7
-7019,0,'Vlg Grn Mall',7
+200,0,'Cowichan Commons',2
+201,0,'Vlg Grn Mall',2
+301,0,'Cowichan Commons',3
+300,0,'Vlg Grn Mall',3
+401,0,'Duncan',4
+400,0,'Maple Bay',4
+501,0,'Eagle Hts',5
+600,0,'Chemainus',6
+601,0,'Duncan',6
+701,0,'S Shr & King George',7
+700,0,'Vlg Grn Mall',7
 8019,0,'Duncan',8
 8029,0,'Mill Bay',8
 9019,0,'Duncan',9
 9029,0,'Mill Bay',9
-2000,0,'Youbou Connector',20
-2100,0,'Honeymoon Bay',21
-3100,0,'Alderwood',31
+2001,0,'Youbou Connector',20
+2101,0,'Honeymoon Bay',21
+3101,0,'Alderwood',31
 34019,0,'Chemainus',34
 34029,0,'Ladysmith',34
-36019,0,'Duncan',36
-36029,0,'Ladysmith',36
-44019,0,'Duncan',44
-44029,0,'Victoria',44
-66019,0,'Duncan',66
-66029,0,'Victoria',66
-99019,0,'Shawnigan Lk',99
-99029,0,'Victoria',99
+3601,0,'Duncan',36
+3600,0,'Ladysmith',36
+4400,0,'Duncan',44
+4401,0,'Victoria',44
+6600,0,'Duncan',66
+6601,0,'Victoria',66
+9900,0,'Shawnigan Lk',99
+9901,0,'Victoria',99
