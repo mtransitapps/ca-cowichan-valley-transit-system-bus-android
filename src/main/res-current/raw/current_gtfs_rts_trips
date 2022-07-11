@@ -9,12 +9,15 @@
 601,0,'Duncan',6
 701,0,'S Shr & King George',7
 700,0,'Vlg Grn Mall',7
-800,0,'Mill Bay',8
-901,0,'Duncan',9
+8019,0,'Duncan',8
+8029,0,'Mill Bay',8
+9019,0,'Duncan',9
+9029,0,'Mill Bay',9
 2001,0,'Youbou Connector',20
 2101,0,'Honeymoon Bay',21
 3101,0,'Alderwood',31
-3401,0,'Ladysmith',34
+34019,0,'Chemainus',34
+34029,0,'Ladysmith',34
 3601,0,'Duncan',36
 3600,0,'Ladysmith',36
 4400,0,'Duncan',44
