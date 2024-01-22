@@ -1,15 +1,15 @@
-2,'2-COW','Mt Prevost','004B8D',47583568,3
-3,'3-COW','Quamichan','8CC63F',48507089,3
-4,'4-COW','Maple Bay','F37421',49430610,3
-5,'5-COW','Eagle Heights','00AEEF',50354131,3
-6,'6-COW','Crofton-Chemainus','FCAF17',51277652,3
-7,'7-COW','Cowichan Lake','00AA47',52201173,3
-8,'8-COW','Mill Bay Via Telegraph Rd/Duncan Via Shawnigan Lk','ED1D8F',53124694,3
-9,'9-COW','Mill Bay Via Shawnigan Lk/Duncan Via Telegraph Rd','8177B7',54048215,3
-20,'20-COW','Youbou Connector','B2BB1E',1477194076,3
-21,'21-COW','Honeymoon Bay Connector','4F6F19',1478117597,3
-31,'31-COW','Alderwood-Ladysmith','77AF99',1506746748,3
-34,'34-COW','Ladysmith-Chemainus','E270AB',1509517311,3
-36,'36-COW','Ladysmith-Duncan Express','5D87A1',1511364353,3
-66,'66-COW','CVX Cowichan - Victoria Express','F49A5D',1597251806,3
-99,'99-COW','SVX Shawnigan Lake - Victoria Express','B3AA7E',1685909822,3
+2,'2','Mt Prevost','004B8D',50,3
+3,'3','Quamichan','8CC63F',51,3
+4,'4','Maple Bay','F37421',52,3
+5,'5','Eagle Heights','00AEEF',53,3
+6,'6','Crofton-Chemainus','FCAF17',54,3
+7,'7','Cowichan Lake','00AA47',55,3
+8,'8','Mill Bay Via Telegraph Rd/Duncan Via Shawnigan Lk','ED1D8F',56,3
+9,'9','Mill Bay Via Shawnigan Lk/Duncan Via Telegraph Rd','8177B7',57,3
+20,'20','Youbou Connector','B2BB1E',1598,3
+21,'21','Honeymoon Bay Connector','4F6F19',1599,3
+31,'31','Alderwood-Ladysmith','77AF99',1630,3
+34,'34','Ladysmith-Chemainus','E270AB',1633,3
+36,'36','Ladysmith-Duncan Express','5D87A1',1635,3
+66,'66','CVX Cowichan - Victoria Express','F49A5D',1728,3
+99,'99','SVX Shawnigan Lake - Victoria Express','B3AA7E',1824,3
