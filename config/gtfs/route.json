@@ -1,0 +1,48 @@
+{
+    "default_route_id_enabled": true,
+    "use_route_short_name_for_route_id": false,
+    "route_id_cleanup_regex": "\\-[A-Z]+$",
+    "default_route_long_name_enabled": true,
+    "route_colors_ignored": [
+        "000000"
+    ],
+    "direction_finder_enabled": true,
+    "trip_headsign_remove_via": true,
+    "trip_headsign_cleaners": [
+        {
+            "regex": "(-to )",
+            "ignore_case": true,
+            "replacement": " to "
+        },
+        {
+            "regex": "(-via )",
+            "ignore_case": true,
+            "replacement": " via "
+        },
+        {
+            "regex": "express",
+            "ignore_case": true,
+            "is_word": true
+        },
+        {
+            "regex": "((^|\\W){1}(trl)(\\W|$){1})",
+            "ignore_case": true,
+            "replacement": "$2Trail$4"
+        }
+    ],
+    "stop_name_cleaners": [
+        {
+            "regex": "(^(\\(-DCOM-\\)))",
+            "ignore_case": true
+        },
+        {
+            "regex": "(^(\\(-IMPL-\\)))",
+            "ignore_case": true
+        },
+        {
+            "regex": "((^|\\W){1}(trl)(\\W|$){1})",
+            "ignore_case": true,
+            "replacement": "$2Trail$4"
+        }
+    ]
+}
