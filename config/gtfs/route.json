@@ -10,6 +10,10 @@
     "trip_headsign_remove_via": true,
     "trip_headsign_cleaners": [
         {
+            "regex": "(- via express)",
+            "ignore_case": true
+        },
+        {
             "regex": "(-to )",
             "ignore_case": true,
             "replacement": " to "
