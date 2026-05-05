@@ -15,7 +15,7 @@
             "replacement": " to "
         },
         {
-            "regex": "(-via )",
+            "regex": "(- via )",
             "ignore_case": true,
             "replacement": " via "
         },
